@@ -1,1 +1,1 @@
-Language Barrier is a one player game.
+Language Barrier
